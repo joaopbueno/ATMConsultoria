@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "detalhe_contato.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
